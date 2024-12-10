@@ -1,0 +1,12 @@
+# Ignorar logs e arquivos temporários
+*.log
+*.tmp
+*.class
+*.ini
+*.xlsx
+*.png
+*.pdf
+
+# Ignorar outras pastas desnecessárias
+/CProjetos/
+/classes/
